@@ -15,5 +15,5 @@
 - **[agent-skills](https://github.com/selamy-labs/agent-skills)** — public, reusable agent skills (MCP-vs-skills, verification, orchestration discipline).
 - **[laneq](https://github.com/selamy-labs/laneq)** — the lease-based priority queue that schedules the fleet (priority lanes, leases, requeue).
 - **[Speedforge](https://speedforge.dev)** — self-hosted GitHub Actions CI runners.
-- **[polymarket-insider-tracker](https://github.com/pselamy/polymarket-insider-tracker)** — detect potential insider trading on prediction markets.
+- **[polymarket-insider-tracker](https://github.com/pselamy/polymarket-insider-tracker)** (⭐ 164) — detect potential insider trading on prediction markets.
 - **[resume](https://github.com/pselamy/resume)** — resume-as-code: base + per-role variants, CI-compiled, published.
