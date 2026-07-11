@@ -11,7 +11,7 @@
 - **Production rigor** — per-agent isolation, a keyless secrets-broker, GitOps/IaC (OpenTofu + Argo CD), runtime knobs without restarts.
 
 ### Selected work
-- **[framework-seed](https://github.com/pselamy/framework-seed)** — agent-orchestration + knowledge-management methodology (make "done" mean done).
+- **[Operating Agent Fleets](https://github.com/pselamy/operating-agent-fleets)** — evidence-backed field guide for durable agent systems, bounded authority, and operational learning.
 - **[agent-skills](https://github.com/selamy-labs/agent-skills)** — public, reusable agent skills (MCP-vs-skills, verification, orchestration discipline).
 - **[laneq](https://github.com/selamy-labs/laneq)** — the lease-based priority queue that schedules the fleet (priority lanes, leases, requeue).
 - **[Speedforge](https://speedforge.dev)** — self-hosted GitHub Actions CI runners.
